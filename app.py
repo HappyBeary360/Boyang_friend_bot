@@ -33,6 +33,7 @@ while True:
       output = "It seems that you are feeling quite " + feelings_list[0] + ". However, do remember that "+ encouragement_list[0] + "! Hope you feel better :)"  
 
   else:
+  
 
     feelings = ""    
     for i in range(len(feelings_list)-1):
