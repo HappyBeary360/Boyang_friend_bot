@@ -1,1 +1,0 @@
-# my_friend_bot
